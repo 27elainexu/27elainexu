@@ -13,5 +13,3 @@ title: Home
 - 📫 How to reach me: idk
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy playing Pokemon Go!
-
-![Butterfly](assets/images/pinkbutterfly.png)
