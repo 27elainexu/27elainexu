@@ -1,2 +1,17 @@
+---
+---
+
+/* Override default theme colors */
+$apple-blossom: #ff66cc;  // Bright pink
+$alto: #f0f0f0;           // Light text color
+$bouquet: #ff99cc;        // Lighter pink
+$chelsea-cucumber: #ff3399; // Darker pink
+$conifer: #ff99cc;        // Another shade of pink
+$gulf-stream: #ff80bf;    // Light pink
+$hippie-blue: #ff4db8;    // Pink with a hint of purple
+$potters-clay: #ff3399;   // Darker pink
+$rajah: #ff99cc;          // Light pink
+$raw-sienna: #ff6699;     // Medium pink
+$silver-chalice: #aaaaaa; // Silver-grey for accents
 
 @import "{{ site.theme }}";
