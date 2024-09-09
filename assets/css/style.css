@@ -1,17 +1,2 @@
-$apple-blossom: #ff66cc;  // Bright pink
-$alto: #f0f0f0;           // Light text color
-$bouquet: #ff99cc;        // Lighter pink
-$chelsea-cucumber: #ff3399; // Darker pink
-$cod-grey: #151515;       // Dark background
-$conifer: #ff99cc;        // Another shade of pink
-$dove-grey: #666666;      // Medium grey (for text or borders)
-$gallery: #eaeaea;        // Light grey (for background)
-$grey: #888888;           // Grey (for text or borders)
-$gulf-stream: #ff80bf;    // Light pink
-$hippie-blue: #ff4db8;    // Pink with a hint of purple
-$potters-clay: #ff3399;   // Darker pink
-$rajah: #ff99cc;          // Light pink
-$raw-sienna: #ff6699;     // Medium pink
-$silver-chalice: #aaaaaa; // Silver-grey for accents
 
 @import "{{ site.theme }}";
