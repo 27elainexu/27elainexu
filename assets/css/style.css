@@ -1,1 +1,36 @@
+---
+---
+/* Import the default theme styles */
+@import "{{ site.theme }}";
 
+/* Customize colors */
+body {
+  background-color: #1a1a1a; /* Dark background */
+  color: #f0f0f0; /* Light text color */
+}
+
+a {
+  color: #ff66cc; /* Bright pink links */
+}
+
+a:hover {
+  color: #ff3399; /* Darker pink on hover */
+}
+
+/* Customize the navigation bar */
+nav {
+  background-color: #333333; /* Darker nav background */
+}
+
+nav a {
+  color: #ffffff; /* White nav links */
+}
+
+nav a:hover {
+  color: #ff66cc; /* Pink nav links on hover */
+}
+
+/* Customize headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ff66cc; /* Pink for all headings */
+}
