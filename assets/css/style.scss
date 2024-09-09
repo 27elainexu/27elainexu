@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 $apple-blossom: #ff66cc;      // Bright pink
 $alto: #f0f0f0;             // Light pinkish-gray for background
 $bouquet: #ff99cc;          // Lighter pink
@@ -16,5 +18,3 @@ $potters-clay: #ff3399;     // Darker pink
 $rajah: #ff99cc;            // Light pink
 $raw-sienna: #ff66cc;       // Bright pink
 $silver-chalice: #d8a1b3;   // Soft pinkish-grey
-
-@import "{{ site.theme }}";
