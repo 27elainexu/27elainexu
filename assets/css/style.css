@@ -1,8 +1,3 @@
----
----
-/* Import the default theme styles */
-@import "{{ site.theme }}";
-
 $apple-blossom: #ff66cc;  // Bright pink
 $alto: #f0f0f0;           // Light text color
 $bouquet: #ff99cc;        // Lighter pink
@@ -18,3 +13,5 @@ $potters-clay: #ff3399;   // Darker pink
 $rajah: #ff99cc;          // Light pink
 $raw-sienna: #ff6699;     // Medium pink
 $silver-chalice: #aaaaaa; // Silver-grey for accents
+
+@import "{{ site.theme }}";
