@@ -1,19 +1,18 @@
 ---
 ---
-$apple-blossom: #ff66cc;      // Bright pink
-$alto: #f0f0f0;             // Light pinkish-gray for background
-$bouquet: #ff99cc;          // Lighter pink
-$chelsea-cucumber: #ff3399;  // Darker pink
-$cod-grey: #1a1a1a;         // Dark background color
-$conifer: #ff66cc;          // Bright pink for accents
-$dove-grey: #e6e6e6;        // Light grey (almost white)
-$gallery: #f9f9f9;          // Very light pink
-$grey: #e0e0e0;             // Light grey
-$gulf-stream: #ff80bf;      // Light pink
-$hippie-blue: #ff66cc;      // Bright pink with a hint of purple
-$potters-clay: #ff3399;     // Darker pink
-$rajah: #ff99cc;            // Light pink
-$raw-sienna: #ff66cc;       // Bright pink
-$silver-chalice: #d8a1b3;   // Soft pinkish-grey
-
+apple-blossom: #ff66cc;      // Bright pink
+alto: #f0f0f0;             // Light pinkish-gray for background
+bouquet: #ff99cc;          // Lighter pink
+chelsea-cucumber: #ff3399;  // Darker pink
+cod-grey: #1a1a1a;         // Dark background color
+conifer: #ff66cc;          // Bright pink for accents
+dove-grey: #e6e6e6;        // Light grey (almost white)
+gallery: #f9f9f9;          // Very light pink
+grey: #e0e0e0;             // Light grey
+gulf-stream: #ff80bf;      // Light pink
+hippie-blue: #ff66cc;      // Bright pink with a hint of purple
+potters-clay: #ff3399;     // Darker pink
+rajah: #ff99cc;            // Light pink
+raw-sienna: #ff66cc;       // Bright pink
+silver-chalice: #d8a1b3;   // Soft pinkish-grey
 @import "{{ site.theme }}";
